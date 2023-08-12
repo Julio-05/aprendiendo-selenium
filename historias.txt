@@ -1,0 +1,41 @@
+Historia 1:
+Inicio de sesión exitoso en Facebook
+Escenario:
+
+
+Porque estaba en la página de inicio de Facebook.
+Cuando ingreso mi correo electrónico y contraseña válidos
+Y presiono el botón de conexión
+A continuación, será redirigido a la página de inicio de Facebook.
+Y verás el feed de noticias con el mensaje
+Historia 2:
+mensaje de estado de facebook
+Escenario:
+
+
+Porque estaba en la página de inicio de Facebook.
+Cuando hago clic en "Crear una publicación"
+Y escribo un estado en el cuadro de texto.
+Y presiono el botón "Publicar"
+Luego verás mi estado publicado en las noticias.
+Historia 3:
+Buscador de amigos de Facebook
+Escenario:
+
+
+Porque estaba en la página de inicio de Facebook.
+Cuando escribo el nombre de mi amigo en el cuadro de búsqueda
+Y presioné el botón de búsqueda
+A continuación, verá resultados de búsqueda que coincidan con el nombre de mi amigo.
+¿Qué sucede si hago clic en el perfil de mi amigo?
+A continuación, verá su perfil y mensajes.
+Historia 4:
+Compartir una publicación en Facebook
+Escenario:
+
+
+Porque estaba en la sección de noticias de Facebook
+Cuando busco y elijo una publicación interesante
+E hice clic en el botón "Compartir" en la publicación.
+Y elijo la opción de compartir en mi propio feed
+Luego veré la publicación compartida en mi propia fuente de noticias. 
